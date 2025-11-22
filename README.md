@@ -19,7 +19,7 @@
 *(Replace links with your real images)*  
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_1" width="250" />
+  <img src=""C:\SISTEC\Major project\Raksha_Astra\Report\Photo\Screenshot_2025-11-05-21-37-54-047_com.example.raksha_astra.jpg"" width="250" />
   <img src="YOUR_IMAGE_LINK_2" width="250" />
   <img src="YOUR_IMAGE_LINK_3" width="250" />
 </p>
